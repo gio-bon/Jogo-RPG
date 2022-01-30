@@ -1,0 +1,2 @@
+- Projeto de aprendizado dentro da DIO
+- Aplicação dos pilares da Orientação a Objetos com C# dentro de personagens de um jogo de RPG

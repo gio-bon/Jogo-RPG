@@ -1,0 +1,15 @@
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/Jogo RPG
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/Jogo RPG.deps.json
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/Jogo RPG.runtimeconfig.json
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/Jogo RPG.dll
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/ref/Jogo RPG.dll
+/home/giovani/Codes/C-Sharp/Jogo RPG/bin/Debug/net6.0/Jogo RPG.pdb
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.csproj.AssemblyReference.cache
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.AssemblyInfoInputs.cache
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.AssemblyInfo.cs
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.csproj.CoreCompileInputs.cache
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.dll
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/ref/Jogo RPG.dll
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.pdb
+/home/giovani/Codes/C-Sharp/Jogo RPG/obj/Debug/net6.0/Jogo RPG.genruntimeconfig.cache
